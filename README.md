@@ -77,7 +77,7 @@ The icons used in this app have a free license. They are designed by [macrovecto
 
 ## License
 
-    Copyright 2024 Alexandre Gomes Pereira
+    Copyright 2024 Justin McAlpin
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
