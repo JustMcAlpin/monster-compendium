@@ -49,9 +49,9 @@ The following is an overview of the key technologies and libraries used in this 
 - [Coil Compose](https://coil-kt.github.io/coil/compose): An image loading library for Android backed by Kotlin Coroutines and Jetpack Compose.
 - [Kotlin Serialization](https://kotlinlang.org/docs/serialization.html): A library for parsing and serializing JSON data, seamlessly converting API responses into Kotlin objects.
 
-## App Architecture
-
-The app's architecture is based on the Model-View-Intent (MVI) pattern with Clean Architecture principles, implemented in a multi-module project, as illustrated in the image below:
+## App Architectu
+The app's architecture ire
+s based on the Model-View-Intent (MVI) pattern with Clean Architecture principles, implemented in a multi-module project, as illustrated in the image below:
 
 ![image](https://github.com/user-attachments/assets/f3aca4fb-5229-448d-985f-686b7490c333)
 
